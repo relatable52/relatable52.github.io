@@ -19,6 +19,6 @@ Mình tên là Trần Dương Chính, hiện tại đang là một sinh viên ng
 * **Giới thiệu:**
 	* 2018 - 2021: Học sinh Chuyên Lí khóa 36 trường THPT Chuyên Hùng Vương, tỉnh Phú Thọ.
 	* 2021 - hiện tại: Sinh viên ngành Khoa học Dữ liệu và Trí tuệ Nhân tạo tại Đại học Bách khoa Hà Nội.
-* **Quê quán:** Việt Trì, Phú Thọ, Việt Nam.
+* **Quê quán:** Phú Thọ, Việt Nam.
 
 Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên lạc với mình qua Facebook [Trần Dương Chính](https://www.facebook.com/profile.php?id=100027499011118) hoặc có thể gửi mail cho mình tại email [duongchinh29062003@gmail.com](mailto:duongchinh29062003@gmail.com).
