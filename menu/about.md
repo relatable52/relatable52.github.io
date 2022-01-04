@@ -8,7 +8,7 @@ permalink: /about
 	<img src="assets/img/bird.png" alt="Hello bird" width="20%">
 </p>
 
-[**Relatable52**](https://www.google.com/) là trang blog của mình, nơi mình viết về các chủ đề mà mình quan tâm và cả không quan tâm lắm nhưng vẫn thích viết.
+[**Relatable52**](https://relatable52.github.io/) là trang blog của mình, nơi mình viết về các chủ đề mà mình quan tâm và cả không quan tâm lắm nhưng vẫn thích viết.
 
 ### Đôi chút về mình
 
