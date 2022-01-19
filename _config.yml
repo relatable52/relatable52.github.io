@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Relatable52'
-description:	       'một trang blog về Toán, Khoa học và hơn nữa'
+description:	       'A blog on miscellaneous topics'
 author:              'Chính D. Trần'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
