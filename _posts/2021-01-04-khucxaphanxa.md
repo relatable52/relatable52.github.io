@@ -258,6 +258,12 @@ Tuy nhiên, đó là trong trường hợp tam giác không có góc nào lớn 
 
 Mình đã lấy ý tưởng từ bài viết [**này**](https://www.facebook.com/OlympiadMathematical/posts/2801484370102126). Thực ra chính bài toán cuối cùng này mới là ý tưởng để mình nghĩ đến hai chứng minh trên. Và theo mình nghĩ có lẽ đây là bằng chứng cho thấy các ngành khoa học khác nhau thực chất không tách rời nhau mà có liên hệ mật thiết với nhau. Chúng ta bắt đầu với việc sử dụng vật lí để chứng minh toán, một điều có vẻ điên rồ, để rồi lại dùng chính phương pháp đó để chứng minh lại vật lí, cụ thể là dùng cơ học để chứng minh quang học!! Đó có phải  là một điều tuyệt vời không? Phương pháp này có lẽ còn thể thể mở rộng hơn nữa, nhưng phần đó sẽ là dành cho những bài blog sau.
 
+## Tham khảo
+* [https://www.facebook.com/OlympiadMathematical/posts/2801484370102126](https://www.facebook.com/OlympiadMathematical/posts/2801484370102126)
+* [https://www.facebook.com/physiad/posts/104621405037158](https://www.facebook.com/physiad/posts/104621405037158)
+* [https://www.youtube.com/watch?v=wWXsajE-L_o](https://www.youtube.com/watch?v=wWXsajE-L_o)
+* [https://editor.p5js.org/psyduck/full/iezcQtpB](https://editor.p5js.org/psyduck/full/iezcQtpB)
+
 
 
 
