@@ -7,7 +7,7 @@ tag: [math, physics]
 image: assets/img/khucxaphanxa.jpg
 ---
 
-Định luật phản xạ ánh sáng và định luật khúc xạ ánh sáng là hai định luật đã rất quen thuộc trong quang hình học. Thông thường, khi chứng minh hai đinh luật này ta sẽ sử dụng các kiến thức hình học. Tuy nhiên, có một phương pháp chứng minh khác khá là độc đáo, đó chính là sử dụng cơ học để chứng minh!!!
+Định luật phản xạ ánh sáng và định luật khúc xạ ánh sáng là hai định luật đã rất quen thuộc trong quang hình học. Thông thường, khi chứng minh hai định luật này ta sẽ sử dụng các kiến thức hình học. Tuy nhiên, có một phương pháp chứng minh khác khá là độc đáo, đó chính là sử dụng cơ học để chứng minh!!!
 
 Trước hết, chúng ta cần biết về quang trình và nguyên lí Fermat.
 
@@ -86,9 +86,10 @@ Sau khi thả cho hệ chuyển động, hệ sẽ dần tiến đến trạng t
 Xét sự cân bằng của điểm $M$. Ta dễ dàng thấy rằng điểm $M$ cân bằng khi nó nằm trong mặt phẳng chứa $AB$ và vuông góc với mặt phẳng $G$. Khi điểm $M$ cân bằng ta có
 
 $$
-    T_1\sin i=T_2\sin r\Leftrightarrow i=r.
+    T_1\sin i=T_2\sin r.
 $$
 
+Mà $T_1=T_2=mg$ nên suy ra $i=r$.  
 Và đó là chứng minh định luật phản xạ ánh sáng bằng cơ học.
 
 ## Định luật khúc xạ ánh sáng
@@ -106,12 +107,12 @@ Ta xét hệ như hình vẽ. Điểm $M$ có thể di chuyển tự do trong m�
 <p><em>Nhấn giữ và di chuyển chuột để nhìn xunh quanh</em></p>
 </center>
 
-Khi thả cho hệ chuyển động. Khi hệ đạt trạng thái cân bằng thì thế năng của hệ sẽ cực tiểu. Gọi độ dài hai dây lần lượt là $l_1$ và $l_2$, thế năng của hệ sẽ là
+Thả cho hệ chuyển động. Khi hệ đạt trạng thái cân bằng thì thế năng của hệ sẽ cực tiểu. Gọi độ dài hai dây lần lượt là $l_1$ và $l_2$, thế năng của hệ sẽ là
 
 $$
 \begin{align*}
     E&=-m_1g(l_1-MA)-m_2g(l_2=MB)\\
-    &=-m1gl_1-m_2gl_2+g(m_1MA+m_2MB).
+    &=-m_1gl_1-m_2gl_2+g(m_1MA+m_2MB).
 \end{align*}
 $$
 
