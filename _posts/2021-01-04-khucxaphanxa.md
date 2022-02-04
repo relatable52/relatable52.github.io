@@ -4,8 +4,7 @@ title: "Định luật phản xạ và khúc xạ qua một góc nhìn mới"
 author: "Chính D. Trần"
 categories: journal
 tag: [math, physics]
-image: 
-    path: /assets/img/khucxaphanxa.jpg
+image: khucxaphanxa.jpg
 ---
 
 Định luật phản xạ ánh sáng và định luật khúc xạ ánh sáng là hai định luật đã rất quen thuộc trong quang hình học. Thông thường, khi chứng minh hai đinh luật này ta sẽ sử dụng các kiến thức hình học. Tuy nhiên, có một phương pháp chứng minh khác khá là độc đáo, đó chính là sử dụng cơ học để chứng minh!!!
