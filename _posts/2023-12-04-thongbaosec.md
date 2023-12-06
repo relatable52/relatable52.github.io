@@ -4,7 +4,7 @@ title: "Thông báo công việc cho nhóm 5"
 author: "Chính D. Trần"
 categories: journal
 tag: [english, sec]
-image: assets/img/announcement-batman.gif
+image: assets/img/biteable-biteableanimation.gif
 ---
 Trước khi đến với thông báo thì các có một trò chơi nho nhỏ cho các bạn 😃🥳.
 
