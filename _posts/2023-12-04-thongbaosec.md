@@ -6,7 +6,7 @@ categories: journal
 tag: [english, sec]
 image: assets/img/biteable-biteableanimation.gif
 ---
-Trước khi đến với thông báo thì các có một trò chơi nho nhỏ cho các bạn 😃🥳.
+## Trước khi đến với thông báo thì các có một trò chơi nho nhỏ cho các bạn 😃🥳.
 
 <center>
 <div>
