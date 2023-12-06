@@ -22,6 +22,10 @@ image: assets/img/biteable-biteableanimation.gif
 
 >Các bạn trong nhóm mình chuyển lại tiền đóng quỹ cho mình theo STK hoặc mã QR sau nhá. Nhớ ghi nội dung chuyển khoản là `HO_VA_TEN nop quy SEC`. Các bạn nộp rồi chụp lại ảnh và cf ở phần bình luận dưới bài viết này nhá.
 
+<center>
+<img src="/assets/img/tk.jpg">
+</center>
+
 ### Về việc chuẩn bị tiết mục văn nghệ cho sinh nhật SEC
 
 Sắp tới CLB mình sẽ có một sự kiện lớn đó chính là sinh nhật của CLB. Trong chương trình sinh nhật của CLB thì sẽ có một cuộc thi văn nghệ giữa các nhóm.
