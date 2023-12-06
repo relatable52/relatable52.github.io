@@ -10,7 +10,7 @@ Trước khi đến với thông báo thì các có một trò chơi nho nhỏ c
 
 <center>
 <div>
-    <iframe src="https://codingnepalweb.com/demos/build-hangman-game-html-javascript/" width=800 height="400"></iframe>
+    <iframe src="https://codingnepalweb.com/demos/build-hangman-game-html-javascript/" width=800 height="600"></iframe>
 </div>
 </center>
 
