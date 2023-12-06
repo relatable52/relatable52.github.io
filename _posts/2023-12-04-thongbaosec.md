@@ -23,7 +23,7 @@ image: assets/img/biteable-biteableanimation.gif
 >Các bạn trong nhóm mình chuyển lại tiền đóng quỹ cho mình theo STK hoặc mã QR sau nhá. Nhớ ghi nội dung chuyển khoản là `HO_VA_TEN nop quy SEC`. Các bạn nộp rồi chụp lại ảnh và cf ở phần bình luận dưới bài viết này nhá.
 
 <center>
-<img src="/assets/img/tk.jpg">
+<img src="/assets/img/tk.jpg" width=200>
 </center>
 
 ### Về việc chuẩn bị tiết mục văn nghệ cho sinh nhật SEC
