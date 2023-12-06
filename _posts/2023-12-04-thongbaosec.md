@@ -8,9 +8,9 @@ image: assets/img/announcement-batman.gif
 ---
 Trước khi đến với thông báo thì các có một trò chơi nho nhỏ cho các bạn 😃🥳.
 
-<div style="width=80vw; height=60vh">
+<!-- <div style="width=80vw; height=60vh">
 <iframe src="https://codingnepalweb.com/demos/memory-card-game-javascript/">
-</div>
+</div> -->
 
 ## Về việc nộp quỹ CLB và chuẩn bị tiết mục cho sinh nhật SEC 
 ### Về việc nộp quỹ CLB
