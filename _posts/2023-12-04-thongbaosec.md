@@ -21,7 +21,9 @@ Trước khi đến với thông báo thì các có một trò chơi nho nhỏ c
 >Số tiền đóng quỹ tháng 11 là **70.000 VNĐ cho mỗi thành viên**.
 
 >Các bạn trong nhóm mình chuyển lại tiền đóng quỹ cho mình theo STK hoặc mã QR sau nhá. Nhớ ghi nội dung chuyển khoản là `HO_VA_TEN nop quy SEC`. Các bạn nộp rồi chụp lại ảnh và cf ở phần bình luận dưới bài viết này nhá.
+
 ### Về việc chuẩn bị tiết mục văn nghệ cho sinh nhật SEC
+
 Sắp tới CLB mình sẽ có một sự kiện lớn đó chính là sinh nhật của CLB. Trong chương trình sinh nhật của CLB thì sẽ có một cuộc thi văn nghệ giữa các nhóm.
 
 >**Nhóm mình cần chuẩn bị một tiết mục (đơn giản thôi) để tham dự 🥹.**
