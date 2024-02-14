@@ -15,44 +15,8 @@ Có lẽ là nhiều bạn vẫn nhớ cái tren **Trái tim thủ khoa Lý** m�
 Hôm nay thì là Valentine mình cũng sực nhớ lại là hồi đó mình cũng nhái lại một cái **Trái tim thủ khoa Lý** theo kiểu của mình. Sau đây thì cho các bạn chiêm ngưỡng luôn.
 
 <div id="traitimthukhoaly" style="height: 30rem; width: 60%; max-height: 70%; min-width: 30rem;">
+<iframe src="https://editor.p5js.org/cheesysausages/full/pliOcFJIA"></iframe>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/addons/p5.sound.min.js"></script>
-<script>
-var t = 0;
-function setup() {
-  pixelDensity(1);
-  var W = document.getElementById('traitimthukhoaly').offsetWidth*0.95;
-  var H = document.getElementById('traitimthukhoaly').offsetHeight*0.95;
-  createCanvas(W, H);
-}
-function windowResized() {
-  var W = document.getElementById('traitimthukhoaly').offsetWidth*0.95;
-  var H = document.getElementById('traitimthukhoaly').offsetHeight*0.95;
-  resizeCanvas(W, H);
-}
-function draw() {
-  t += 0.1
-  background(250, 200, 200);
-  stroke(255, 100, 100);
-  strokeWeight(10)
-  var r0 = min(width, height)*0.07*(1+0.1*cos(t));
-  translate(width/2, height/3);
-   for(let i = 1; i <= 50; i++){
-    index = (i+t*5) - floor((i+t*5)/50)*50;
-    co = exp(-index*index*0.001-0.05);
-    strokeWeight(r0*co*0.5);
-    stroke(255, 100, 100, 200*co);
-    for(let j = 0; j <= 20; j++){
-      let the = 6*PI*noise(j*0.1 + t*0.005 + i*5);
-      let r = co*r0*(3.6 -(cos(2*the) + 3*sin(the))/(0.8 + abs(cos(the))) + 1.5*cos(2*the));
-      let x = r*(1-0*noise(t*0.005 + the))*cos(the);
-      let y = -r*(1+0*noise(t*0.005 + the))*sin(the);
-      point(x,y);
-    }
-  }
-}
-</script>
 
 Lý Tuân thì code băng C++ (không hiểu sao code được), còn mình gà hơn thì dùng `HTML`, `CSS` với `JavaScript` thôi. Mình có dùng một thư viện là `p5.js` (vì nó nhanh và tiện). Nếu các bạn search trên mạng thì nó cũng sẽ ra cả nghìn cái code trái tim, và thực sự nhiều cái còn đẹp hơn thế này nhiều. Nhưng mà, tự làm thì có ý nghĩa hơn là `Ctrl C Ctrl V` chứ nhỉ.
 
