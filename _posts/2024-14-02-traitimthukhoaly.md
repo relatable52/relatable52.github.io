@@ -4,7 +4,7 @@ title: "Một bài post nhân dịp Valentine"
 author: "Chính D. Trần"
 categories: journal
 tag: [code, p5.js, valentine]
-image: 
+image: assets\img\hustkkk.jpg
 ---
 > Theo Wikipedia: Ngày lễ Tình nhân, hay còn gọi ngày Thánh Valentine hay Bữa tiệc của Thánh Valentine, diễn ra vào ngày 14 tháng 2 hàng năm. Ngày lễ này bắt nguồn là một ngày lễ trong Kitô giáo để vinh danh thánh Valentine, và về sau đã trở thành một ngày lễ để vinh danh tình yêu tại nhiều nơi trên thế giới.
 
