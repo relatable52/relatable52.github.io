@@ -55,7 +55,7 @@ function draw() {
 }
 </script>
 
-Lý Tuân thì code băng C++ (không hiểu sao code được), còn mình gà hơn thì dùng `HTML`, `CSS` với `JavaScript` thôi. Mình có dùng một thư viện là `p5.js` (vì nó nhanh và tiện). Nếu các bạn search trên mạng thì nó cũng sẽ ra cả nghìn cái code trái tim, và thực sự nhiều cái còn đẹp hơn thế này nhiều. Nhưng mà, tự làm thì có ý nghĩa hơn là `Ctrl C Ctrl V` chứ nhỉ.
+Lý Tuân thì code băng `C++` (không hiểu sao code được), còn mình gà hơn thì dùng `HTML`, `CSS` với `JavaScript` thôi. Mình có dùng một thư viện là `p5.js` (vì nó nhanh và tiện). Nếu các bạn search trên mạng thì nó cũng sẽ ra cả nghìn cái code trái tim, và thực sự nhiều cái còn đẹp hơn thế này nhiều. Nhưng mà, tự làm thì có ý nghĩa hơn là `Ctrl C Ctrl V` chứ nhỉ.
 
 Bạn nào cần code thì xem ở link dưới nhá.  https://editor.p5js.org/cheesysausages/sketches/pliOcFJIA
 
