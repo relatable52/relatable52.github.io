@@ -46,7 +46,7 @@ Các bạn làm theo hướng dẫn và gửi mình file ghi âm trước 12h tr
 </table>
 
 ## Video
->Hướng dẫn: Các bạn bật phần mềm recording của máy tính lên, đeo tai nghe, play video và nói theo video. Lời thoại đã có ở bên cạnh nếu bạn cần. Sau khi record xong thì gửi mình file qua mess nha.
+>Hướng dẫn: Các bạn bật phần mềm recording của máy tính lên, đeo tai nghe, play video và nói theo video. Lời thoại đã có ở bên cạnh nếu bạn cần. Sau khi record xong thì gửi mình file qua mess nha. Các bạn có thể pause và ghi âm thành nhiều phần sẽ dễ hơn.
 <div class="row">
 <div class="col">
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nnD8FKXzIGs?si=xU-nhvEGw6fSbGND&amp;start=418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
