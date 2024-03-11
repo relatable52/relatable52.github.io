@@ -48,7 +48,7 @@ image: assets\img\hustkkk.jpg
 ## Video
 <div class="row">
 <div class="col">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nnD8FKXzIGs?si=xU-nhvEGw6fSbGND&amp;start=418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/nnD8FKXzIGs?si=xU-nhvEGw6fSbGND&amp;start=418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="col">
 
