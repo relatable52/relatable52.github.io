@@ -48,8 +48,8 @@ image: assets\img\hustkkk.jpg
 <div class="col" style="width:55%">
 <iframe width="500" height="300" src="https://www.youtube.com/embed/nnD8FKXzIGs?si=xU-nhvEGw6fSbGND&amp;start=418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<div class="col" style="overflow:auto; width:45%">
-
+<div class="col" style="overflow:auto; width:45%; align-text:center">
+<p>
 ### Tại ngân hàng Gringotts
 [Harry và Hagrid đi dọc Hẻm Chéo]
 
@@ -134,7 +134,7 @@ Curious. Very curious.
 **Hagrid**: Harry! Harry! Happy birthday! [Tay cầm con cú Hedwig.]
 
 **Harry**: [kinh ngạc] Wow.
-
+</p>
 </div>
 </div>
 
