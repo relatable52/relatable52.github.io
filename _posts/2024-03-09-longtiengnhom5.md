@@ -33,11 +33,11 @@ image: assets\img\hustkkk.jpg
 <td>Hagrid</td>
 </tr>
 <tr>
-<td>Hậu</td>
+<td>Đăng</td>
 <td>Goblin</td>
 </tr>
 <tr>
-<td>Đăng</td>
+<td>Hậu</td>
 <td>Harry Potter</td>
 </tr>
 <tr>
