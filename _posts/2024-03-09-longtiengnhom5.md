@@ -6,13 +6,12 @@ categories: journal
 tag: [english, sec, movie]
 image: assets\img\hustkkk.jpg
 ---
-Đây là một trang web giúp các bạn có thể ghi âm khớp với video.
+Đây là một trang web giúp các bạn có thể ghi âm khớp với video. 
+
+Các bạn làm theo hướng dẫn và gửi mình file ghi âm trước 12h trưa ngày 12/3/2024 nha.
 
 ## Phân vai
 <style>
-    td{
-        border: solid;
-    }
     .row {
         display: flex;
         width: 95vw;
@@ -47,6 +46,7 @@ image: assets\img\hustkkk.jpg
 </table>
 
 ## Video
+>Hướng dẫn: Các bạn bật phần mềm recording của máy tính lên, đeo tai nghe, play video và nói theo video. Lời thoại đã có ở bên cạnh nếu bạn cần. Sau khi record xong thì gửi mình file qua mess nha.
 <div class="row">
 <div class="col">
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nnD8FKXzIGs?si=xU-nhvEGw6fSbGND&amp;start=418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
@@ -111,4 +111,6 @@ Curious. Very curious.</p>
 </p>
 </div>
 </div>
+
+Ai có câu hỏi gì hoặc muốn giao lưu thì cmt ở dưới nha :))
 
