@@ -45,10 +45,10 @@ image: assets\img\hustkkk.jpg
 
 ## Video
 <div class="row">
-<div class="col" style="flex:55%">
+<div class="col" style="width:55%">
 <iframe width="500" height="300" src="https://www.youtube.com/embed/nnD8FKXzIGs?si=xU-nhvEGw6fSbGND&amp;start=418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<div class="col" style="overflow:auto; flex:45%">
+<div class="col" style="overflow:auto; width:45%">
 
 ### Tại ngân hàng Gringotts
 [Harry và Hagrid đi dọc Hẻm Chéo]
