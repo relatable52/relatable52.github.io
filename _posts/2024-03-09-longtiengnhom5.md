@@ -57,30 +57,30 @@ image: assets\img\hustkkk.jpg
 
 **Harry**: But, Hagrid, how am I to pay for all this? I haven't any money.
 
-**Hagrid**: Well, there's yer money, Harry.<br>
+**Hagrid**: Well, there's yer money, Harry.\
 Gringotts, the Wizard Bank. T'ain't no safer place, not one. 'Cept perhaps Hogwarts.
 
 **Harry**: Uh, Hagrid, what exactly are these things?
 
-**Hagrid**: They're goblins, Harry. Clever as they come goblins but not the most friendly of beasts. Bes' stay close.<br>
-[Harry và Hagrid đi đến một quầy]<br>
+**Hagrid**: They're goblins, Harry. Clever as they come goblins but not the most friendly of beasts. Bes' stay close.\
+[Harry và Hagrid đi đến một quầy]\
 Mr. Harry Potter wishes to make a withdrawal.
 
 [Yêu tinh nhìn lên]
 
 **Goblin**: And does Mr. Harry Potter have his key?
 
-**Hagrid**: Oh, wait a minute. Got it here somewhere. Ha! There's the little devil.<br>
-[Thì thầm] Oh, and there's something else as well.<br>
-[Lấy ra một bức thư] Professor Dumbledore gave me this.<br>
+**Hagrid**: Oh, wait a minute. Got it here somewhere. Ha! There's the little devil.\
+[Thì thầm] Oh, and there's something else as well.\
+[Lấy ra một bức thư] Professor Dumbledore gave me this.\
 [Hagrid đưa yêu tinh bức thư] It's about You-Know-What in vault You-Know-Which.
 
 **Goblin**: Very well.
 
 [Mọi người đi xuống tầng hầm]
 
-**Griphook(Tên yêu tinh)**: Vault 687. Lamp, please.<br>
-[Hagrid đưa yêu tinh cái đèn] Key, please.<br>
+**Griphook(Tên yêu tinh)**: Vault 687. Lamp, please.\
+[Hagrid đưa yêu tinh cái đèn] Key, please.\
 [Hagrid đưa yêu tinh chìa khóa và mở hầm.]
 
 **Hagrid**: Didn't think yer mum and dad will leave you with nothing now, did yeh?
@@ -93,10 +93,10 @@ Mr. Harry Potter wishes to make a withdrawal.
 
 **Hagrid**: Can't tell yeh, Harry. It's Hogwarts business. Very secret.
 
-**Griphook**: Stand back.<br>
+**Griphook**: Stand back.\
 [Mở cửa hầm]
 
-**Hagrid**: Bes' not to mention this to anyone, Harry.<br>
+**Hagrid**: Bes' not to mention this to anyone, Harry.\
 [Harry gật đầu]
 
 ### Tại cửa hàng đũa thần Olivanders
@@ -115,12 +115,12 @@ There ain't no place better. Why don't you run along there and wait. I just got 
 
 **Ollivander**: I wondered when I'd be seeing you, Mr. Potter. It seems only yesterday that your mother and father were in here buying their first wands.
 
-[Chọn đũa thần] Ah. Here we are.<br> [Harry cầm đũa nhưng không có gì]<br> Well, give it a wave. <br>
-[Harry vẩy đũa thần và làm rất nhiều hộp rơi xuống. Sợ hãi, Harry nhanh chống trả đũa về chỗ cũ]<br> 
-Apparently not. [lấy đũa từ trong hộp] Perhaps this. <br>
-[Harry làm vỡ một cái bình]<br>
-No, no, definitely not! No matter. [định lấy đũa thần nhưng dừng lại suy nghĩ ] I wonder... <br>
-[Ollivander đưa đũa thần cho Harry, đũa thần phát sáng khiến Ollivander suy nghĩ]<br>
+[Chọn đũa thần] Ah. Here we are.\ [Harry cầm đũa nhưng không có gì]\ Well, give it a wave.\
+[Harry vẩy đũa thần và làm rất nhiều hộp rơi xuống. Sợ hãi, Harry nhanh chống trả đũa về chỗ cũ]\
+Apparently not. [lấy đũa từ trong hộp] Perhaps this.\
+[Harry làm vỡ một cái bình]\
+No, no, definitely not! No matter. [định lấy đũa thần nhưng dừng lại suy nghĩ ] I wonder...\
+[Ollivander đưa đũa thần cho Harry, đũa thần phát sáng khiến Ollivander suy nghĩ]\
 Curious. Very curious.
 
 **Harry**: Sorry, but what's curious?
