@@ -17,11 +17,13 @@ image: assets\img\hustkkk.jpg
         display: flex;
         width: 95vw;
         margin-left: 50%;
-        transform: translateX(-50%);  
+        transform: translateX(-50%);
+        background-color: rgba(200, 200, 200, 0.3);  
     }
     .col {
         padding: 0.5rem;
         height: 20rem;
+        border: 1px solid;
     }
 </style>
 <table>
