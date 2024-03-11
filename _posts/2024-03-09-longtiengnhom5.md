@@ -22,6 +22,7 @@ image: assets\img\hustkkk.jpg
     .col {
         flex: 50%;
         padding: 0.5rem;
+        height: 20rem;
         overflow: auto;
     }
 </style>
