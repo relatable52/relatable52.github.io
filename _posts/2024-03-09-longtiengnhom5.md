@@ -20,10 +20,8 @@ image: assets\img\hustkkk.jpg
         transform: translateX(-50%);  
     }
     .col {
-        flex: 50%;
         padding: 0.5rem;
         height: 20rem;
-        overflow: auto;
     }
 </style>
 <table>
@@ -47,10 +45,10 @@ image: assets\img\hustkkk.jpg
 
 ## Video
 <div class="row">
-<div class="col">
+<div class="col" style="flex:55%">
 <iframe width="500" height="300" src="https://www.youtube.com/embed/nnD8FKXzIGs?si=xU-nhvEGw6fSbGND&amp;start=418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<div class="col">
+<div class="col" style="overflow:auto; flex:45%">
 
 ### Tại ngân hàng Gringotts
 [Harry và Hagrid đi dọc Hẻm Chéo]
