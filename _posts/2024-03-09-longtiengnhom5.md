@@ -50,6 +50,7 @@ image: assets\img\hustkkk.jpg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nnD8FKXzIGs?si=xU-nhvEGw6fSbGND&amp;start=418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="col">
+
 ### Tại ngân hàng Gringotts
 [Harry và Hagrid đi dọc Hẻm Chéo]
 
@@ -57,8 +58,6 @@ image: assets\img\hustkkk.jpg
 
 **Hagrid**: Well, there's yer money, Harry.<br>
 Gringotts, the Wizard Bank. T'ain't no safer place, not one. 'Cept perhaps Hogwarts.
-
-
 
 **Harry**: Uh, Hagrid, what exactly are these things?
 
@@ -136,6 +135,7 @@ Curious. Very curious.
 **Hagrid**: Harry! Harry! Happy birthday! [Tay cầm con cú Hedwig.]
 
 **Harry**: [kinh ngạc] Wow.
+
 </div>
 </div>
 
